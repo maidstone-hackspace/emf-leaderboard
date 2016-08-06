@@ -44,7 +44,7 @@ def mainscreen():
 	return
 
 def getdata():
-	url = 'http://'+server+':9002/schedule'
+	url = 'https://hackspace-leaderboard-scollins.c9users.io/leaderboard.json'
 	resp = get(url).text
 	return json.loads(resp)
 	
@@ -101,10 +101,6 @@ else:
 #Init GFX and Buttons
 ugfx.init()
 buttons.init()
-
-#Server Address
-server = 'badge.emf.camp'
-
 
 #Main Screen
 mainscreen()
