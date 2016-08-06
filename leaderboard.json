@@ -1,7 +1,7 @@
 {
-    "ccs": [
+    "ccs": {
         "50cc": {
-            "tracks": [
+            "tracks": {
                 "rainbow": {
                     "leaderboard": [
                         {
@@ -17,8 +17,8 @@
                             "time": "10"
                         }
                     ]
-                },
-            ]
+                }
+            }
         }
-    ]
+    }
 }
