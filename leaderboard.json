@@ -1,0 +1,24 @@
+{
+    "ccs": [
+        "50cc": {
+            "tracks": [
+                "rainbow": {
+                    "leaderboard": [
+                        {
+                            "name": "Sam",
+                            "score": 100,
+                            "character": "Mario",
+                            "time": "10"
+                        },
+                        {
+                            "name": "Ben",
+                            "score": 120,
+                            "character": "Mario",
+                            "time": "10"
+                        }
+                    ]
+                },
+            ]
+        }
+    ]
+}
